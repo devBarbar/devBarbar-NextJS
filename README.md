@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # nextjs-starter-forty
 A Next.js starter based on the Forty site template, designed by HTML5 UP. Check out https://codebushi.com/nextjs-website-starters/ for more Next.js starters and templates.
 
@@ -30,6 +29,4 @@ npm run dev
 # Build and export the site, the static files are generated in the out/ folder
 npm run export
 ```
-=======
-# devBarbar-NextJS
->>>>>>> a44fd82961b48651e145ea635ade9ac50c1621d5
+
